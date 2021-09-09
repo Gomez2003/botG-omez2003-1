@@ -1,8 +1,8 @@
 {
-  "name": "GØMĘZ-BOT",
+  "name": "GOMEZ-BOT",
   "version": "0.0.0",
   "description": "",
-  "main": "GØMĘZ-bot.js",
+  "main": "GOMEZ-bot.js",
     "directories": {
     "lib": "lib"
   },
@@ -41,7 +41,7 @@
     "brainly-scraper": "^1.0.3"
   },
   "scripts": {
-  "start": "node thechoute.js"
+  "start": "GOMEZ-bot.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
